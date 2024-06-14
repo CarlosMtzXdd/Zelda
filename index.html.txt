@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Leyenda de Zelda</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>La Leyenda de Zelda</h1>
+        <nav>
+            <ul>
+                <li><a href="#juegos">Juegos</a></li>
+                <li><a href="#historia">Historia</a></li>
+                <li><a href="#cronologia">Cronología</a></li>
+                <li><a href="#videos">Videos</a></li>
+                <li><a href="#bibliografia">Bibliografía</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="juegos">
+            <h2>Juegos</h2>
+            <ul>
+                <li>The Legend of Zelda (1986)</li>
+                <li>A Link to the Past (1991)</li>
+                <li>Ocarina of Time (1998)</li>
+                <li>The Wind Waker (2002)</li>
+                <li>Twilight Princess (2006)</li>
+                <li>Breath of the Wild (2017)</li>
+                <!-- Añade más juegos aquí -->
+            </ul>
+        </section>
+        <section id="historia">
+            <h2>Historia</h2>
+            <p>La serie de videojuegos "La Leyenda de Zelda" sigue las aventuras del héroe Link mientras intenta rescatar a la princesa Zelda y proteger la tierra de Hyrule del malvado Ganon. La serie, desarrollada por Nintendo, es conocida por su combinación de acción, aventura y resolución de puzles.</p>
+        </section>
+        <section id="cronologia">
+            <h2>Cronología</h2>
+            <p>La cronología oficial de la serie "La Leyenda de Zelda" se divide en varias líneas de tiempo a partir de los eventos de "Ocarina of Time". La historia se ramifica en tres posibles líneas de tiempo:</p>
+            <ul>
+                <li>Linea del Héroe Derrotado</li>
+                <li>Linea del Héroe Triunfante - Niño</li>
+                <li>Linea del Héroe Triunfante - Adulto</li>
+            </ul>
+        </section>
+        <section id="videos">
+            <h2>Videos</h2>
+            <div class="video-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <!-- Reemplaza VIDEO_ID con el ID de YouTube del video que deseas incluir -->
+            </div>
+        </section>
+        <section id="bibliografia">
+            <h2>Bibliografía</h2>
+            <ul>
+                <li><a href="https://www.zelda.com">Sitio oficial de The Legend of Zelda</a></li>
+                <li><a href="https://es.wikipedia.org/wiki/The_Legend_of_Zelda">Wikipedia: The Legend of Zelda</a></li>
+                <li><a href="https://www.zeldadungeon.net">Zelda Dungeon</a></li>
+                <!-- Añade más referencias aquí -->
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 La Leyenda de Zelda</p>
+    </footer>
+</body>
+</html>
+
